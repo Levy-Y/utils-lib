@@ -1,6 +1,6 @@
 # Utils Library
 
-![Utils Library](https://img.shields.io/badge/language-C%23-blue)
+![Utils Library](https://img.shields.io/badge/language-C%23-blue) ![version](https://img.shields.io/badge/version-1.0-blue)
 
 ## Introduction
 
